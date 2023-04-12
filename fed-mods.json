@@ -1,11 +1,11 @@
 {
-    "aw": {
+    "seatsAdmin": {
         "entry": [
-            "/beta/apps/aw/aw.3105ecfe020bd2b42480.js"
+            "/beta/apps/seats-admin/seatsAdmin.55e905da6e95feeede3f.js"
         ],
         "modules": [
-            "/beta/apps/aw/js/480.3105ecfe020bd2b42480.js",
-            "/beta/apps/aw/css/480.c3518f4364ec7a9ebb02.css"
+            "/beta/apps/seats-admin/js/480.55e905da6e95feeede3f.js",
+            "/beta/apps/seats-admin/css/480.9093f1106a91a37df516.css"
         ]
     }
 }
