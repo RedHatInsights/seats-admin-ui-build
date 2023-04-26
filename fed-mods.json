@@ -1,10 +1,10 @@
 {
     "seatsAdmin": {
         "entry": [
-            "/apps/seats-admin/seatsAdmin.1bf2da4120612908af87.js"
+            "/apps/seats-admin/seatsAdmin.978cef443c871f01f031.js"
         ],
         "modules": [
-            "/apps/seats-admin/js/480.1bf2da4120612908af87.js",
+            "/apps/seats-admin/js/480.978cef443c871f01f031.js",
             "/apps/seats-admin/css/480.9093f1106a91a37df516.css"
         ]
     }
