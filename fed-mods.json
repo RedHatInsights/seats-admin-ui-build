@@ -1,11 +1,11 @@
 {
-    "seatsAdmin": {
-        "entry": [
-            "/apps/seats-admin/seatsAdmin.6e316220bf0580438b2e.js"
-        ],
-        "modules": [
-            "/apps/seats-admin/js/564.6e316220bf0580438b2e.js",
-            "/apps/seats-admin/css/564.8cca40baa52184016358.css"
-        ]
-    }
+  "name": "seatsAdmin",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/apps/seats-admin/",
+  "loadScripts": [
+    "seatsAdmin.65f1daad01cbb16a19ec.js"
+  ],
+  "buildHash": "65f1daad01cbb16a19eca6fd063d531f"
 }
