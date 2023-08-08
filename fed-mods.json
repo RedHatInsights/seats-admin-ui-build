@@ -1,11 +1,11 @@
 {
-  "name": "seatsAdmin",
+  "name": "seatsAdminUi",
   "version": "1.0.0",
   "extensions": [],
   "registrationMethod": "callback",
-  "baseURL": "/apps/seats-admin/",
+  "baseURL": "/apps/seats-admin-ui/",
   "loadScripts": [
-    "seatsAdmin.5b527f0da0899f9064f6.js"
+    "seatsAdminUi.8b4be0d8bfd58b49cb44.js"
   ],
-  "buildHash": "5b527f0da0899f9064f62ab77a83f2ed"
+  "buildHash": "8b4be0d8bfd58b49cb44552f9716bd9d"
 }
