@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/apps/seats-admin-ui/",
   "loadScripts": [
-    "seatsAdminUi.0f0e7f5b95f960d2d8d3.js"
+    "seatsAdminUi.2e7e24722452408d9ff9.js"
   ],
-  "buildHash": "0f0e7f5b95f960d2d8d3775070e2911c"
+  "buildHash": "2e7e24722452408d9ff9299ce4c75638"
 }
